@@ -10,17 +10,13 @@ public class Eq2Grau{
     if(delta() >= 0){
     return (-b + Math.sqrt(delta())) / (2*a);
     }
-    else{
-      return 0;
-    }
+   
   }
   double raiz2(){
     if(delta() >= 0){
     return (-b - Math.sqrt(delta())) / (2*a);
     }
-    else{
-      return 0;
-    }
+    
   }
 
   
