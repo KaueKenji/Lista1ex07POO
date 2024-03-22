@@ -20,7 +20,7 @@ public class Main {
       System.out.println("Raiz 2: " + eq.raiz2());
     } else {
       System.out.println("Delta: " + eq.delta());
-      System.out.println("Não há raizes reais");
+      System.out.println("Não há raizes reais dentre os valores recebidos.");
     }
   }
 
